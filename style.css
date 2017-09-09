@@ -1,0 +1,181 @@
+
+body {
+   margin: 0px;
+}
+
+#panel{
+    width: 15%;
+    height: 100vh;
+    float: left;
+    background-color: #74716f;
+}
+
+#logo {
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+    height: 10%;
+}
+
+#titleTop {
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    font-family: 'Source Sans Pro', serif; font-size: 22px;
+    height: 10%;
+}
+
+#buttonSection{
+
+    height: 18%;
+}
+
+.avatar {
+    text-align: center;
+    font-family: 'Source Sans Pro', serif; font-size: 12px;
+    color: white;
+}
+
+#tips {
+    height: 37%;
+    border-top: solid white 1px;
+    border-bottom: solid white 1px;
+}
+
+#credit {
+    height:15%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#black1{
+    color: white;
+    padding: 10px;
+    font-family: 'Source Sans Pro', serif; font-size: 12px;
+}
+
+#black2{
+text-align: center;
+    color: white;
+    padding: 10px;
+    font-family: 'Source Sans Pro', serif; font-size: 12px;
+}
+
+#black3{
+    color: white;
+    padding: 10px;
+    font-family: 'Source Sans Pro', serif; font-size: 12px;
+
+}
+
+#black4{
+    color: white;
+    padding: 10px;
+    font-family: 'Source Sans Pro', serif; font-size: 12px;
+
+}
+
+#myProgress {
+    margin: auto;
+    width: 90%;
+    background-color: grey;
+}
+#myBar {
+    width: 1%;
+    height: 10px;
+    background-color: #eeeeee;
+}
+
+.left{
+    width: 50%;
+    float: left;
+}
+.right{
+    width:50%;
+    float: right;
+}
+
+#stage{
+    width: 85%;
+    height: 100vh;
+    float: right;
+    background-color: #eeeeee;
+}
+
+
+
+
+
+#btm_home{
+
+    text-align: center;
+    color: white;
+    font-family: 'Source Sans Pro', serif; font-size: 12px;
+}
+
+#btm_home:hover {
+    background-color: #9f9f9f;
+}
+
+#btm_play{
+
+    text-align: center;
+    color: white;
+    font-family: 'Source Sans Pro', serif; font-size: 12px;
+}
+
+#btm_play:hover{
+   background-color: #9f9f9f;
+}
+
+
+
+
+#btm_top{
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+    font-family: 'Source Sans Pro', serif; font-size: 12px;
+}
+
+#btm_top:hover {
+    background-color: #9f9f9f;
+}
+
+#btm_report{
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+    font-family: 'Source Sans Pro', serif; font-size: 12px;
+}
+
+#btm_report:hover{
+    background-color: #9f9f9f;
+}
+
+#title{
+    width: 100vw;
+    height: 10vh;
+    background-color: #eeeeee;
+    text-align: center;
+    font-family: 'Source Sans Pro', serif; font-size: 28px;
+    padding-top: 5px;
+}
+
+div.tooltip {
+    position: absolute;
+    /*text-align: center;*/
+    width: auto;
+    height: auto;
+    padding: 2px;
+    color: white;
+    font-family: 'Source Sans Pro', serif; font-size: 12px;
+    background: #7a7a7a;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
+
+a, u {
+    text-decoration: none;
+}
